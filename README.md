@@ -1,19 +1,17 @@
-### Hi there 👋
+### 
 
-<!--
-**Yanghyeondong/Yanghyeondong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
+<p align="center">
+    <a href="https://yangdongs.web.app/">
+        <img style="border-radius: 10px" width="auto" height="auto" src="https://user-images.githubusercontent.com/37038105/202439323-35317d2a-2964-40ea-9d4b-88eb6d8dc4ea.gif">
+    <a>
+</p>
 
-Here are some ideas to get you started:
+<div align=center>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ☝ Click to go!  
+<br>
+
 <!--
 ![Yanghyeondong's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yanghyeondong&show_icons=true&)
 -->
