@@ -8,5 +8,5 @@
     
 ### ☝ 클릭! 블로그에 놀러오세요 :)
 <!--
-![Yanghyeondong's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yanghyeondong&show_icons=true&)
+![Yanghyeondong's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yanghyeondong&include_all_commits=true&show_icons=true)
 -->
