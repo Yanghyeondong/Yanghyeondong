@@ -16,11 +16,21 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kubernetes,docker,aws,gcp"/>
+    <img src="https://skillicons.dev/icons?i=kubernetes,docker,aws,azure,gcp"/>
     <br/>
-    <img src="https://skillicons.dev/icons?i=c,cpp,py,ts,bash"/>
+    <img src="https://skillicons.dev/icons?i=c,cpp,py,java,ts,bash"/>
   </a>
 </p>
+
+<br/>
+
+## 👩‍💻 Key Activities
+
+| Title           | Company       | Period         | Main Responsibilities                        |
+|-----------------|---------------|----------------|---------------------------------------|
+| **인턴십**             | 삼성SDS     | 2024.07 - 2024.08 | 통합 MAS팀 통합 연계서비스 파트 근무.<br>SCP기반 AI 코파일럿 시스템 구축. |
+| **학부연구생**        | 성균관대학교 LAMDA Lab     | 2023.02 - 2023.08 | '단락벡터 기반 DSM-5 우울 진단 멀티 라벨 모델' 논문 게재.<br>DOI : 10.6109/jkiice.2023.27.10.1201 |
+
 
 <br/>
 
