@@ -35,7 +35,7 @@
 | **학부연구생**        | 성균관대학교<br>LAMDA Lab     | 2023.02 - 2023.08 | 『단락벡터 기반 DSM-5 우울 진단 멀티 라벨 모델』<br>DOI : 10.6109/jkiice.2023.27.10.1201 [DBpia](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11553803)|
 
 <br/>
-<!--
+
 ## 🍹 My Blog
 
 <div style="display: flex; align-items: center;">
@@ -45,7 +45,7 @@
 </div>
 
 ### hyeondong.com ☝ Click to go! 
--->
+
 
 
 </div>
