@@ -30,12 +30,12 @@
 
 | Title           | Company       | Period         | Main Responsibilities                        |
 |-----------------|---------------|----------------|---------------------------------------|
-| **인턴십**             | 삼성SDS     | 2024.07 - 2024.08 | 통합 MAS팀 통합 연계서비스 파트 근무.<br>SCP기반 AI 코파일럿 시스템 구축. |
-| **학부연구생**        | 성균관대학교<br>LAMDA Lab     | 2023.02 - 2023.08 | '단락벡터 기반 DSM-5 우울 진단 멀티 라벨 모델' 논문 게재.<br>DOI : 10.6109/jkiice.2023.27.10.1201 [DBpia](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11553803)|
-| **Co-Deep Learning<br>동료평가상 수상**    | 성균관대학교<br>대학혁신과공유센터 | 2024.03 - 2024.07 |  교내 교수-학생 팀 프로젝트 수행.<br>DevRoom : 개인 개발용 컨테이너 관리 시스템 [Repo](https://github.com/DEVROOM-OFFICIAL) |
+| **재직**             | 삼성SDS     | 2025.01 - 현재 | 제조IT팀(유통/서비스팀 파견)<br> |
+| **인턴십**             | 삼성SDS     | 2024.07 - 2024.08 | 통합 MAS팀 통합 연계서비스 파트<br>SCP기반 AI 코파일럿 시스템 구축. |
+| **학부연구생**        | 성균관대학교<br>LAMDA Lab     | 2023.02 - 2023.08 | 『단락벡터 기반 DSM-5 우울 진단 멀티 라벨 모델』<br>DOI : 10.6109/jkiice.2023.27.10.1201 [DBpia](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11553803)|
 
 <br/>
-
+<!--
 ## 🍹 My Blog
 
 <div style="display: flex; align-items: center;">
@@ -45,7 +45,7 @@
 </div>
 
 ### hyeondong.com ☝ Click to go! 
-
+-->
 
 
 </div>
